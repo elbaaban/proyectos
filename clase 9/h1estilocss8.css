@@ -1,0 +1,23 @@
+h1
+{color:violet;
+background-color: blue;
+border-radius: 30px;
+border:solid;
+border-color:pink;
+text-align: center;}
+  
+
+.destacado
+{color: red;}
+
+.destacado2
+{color:rgb(182, 238, 130);
+background-color: rgb(255, 123, 0);
+border-radius: 30px;
+border:solid;
+border-color:rgb(204, 192, 255);
+
+text-align: right;}
+
+#a
+{color: pink;}
